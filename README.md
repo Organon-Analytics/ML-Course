@@ -1,2 +1,3 @@
 # ML-Course
-Line added
+The course is divided into two parts: In Part-I, We will present the material about Probability, Statistics, Data, Machine Learning, and the GBM algorithm. This material will lay out the theoretical and practical foundation for building Machine Learning models, and for what will be coming in Part-II: The development of a Gradient Boosting Machine algorithm. 
+We will provide some code snippets in Part-I that will support the materials presented in slides. A Visual Studio solution will host the code with separate projects for each day.
